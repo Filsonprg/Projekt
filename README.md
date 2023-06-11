@@ -7,8 +7,6 @@ Tento repozitář obsahuje web zaměřený na téma software. Web je vytvořen p
 - [Úvod](#úvod)
 - [Produkty](#produkty)
 - [Popis Softwaru](#popis-softwaru)
-- [Jak spustit web](#jak-spustit-web)
-- [Příspěvky a přispívání](#příspěvky-a-přispívání)
 - [Licence](#licence)
 
 ## Úvod
