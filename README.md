@@ -26,3 +26,6 @@ Sekce "Popis Softwaru" poskytuje podrobnější informace o třech vybraných ty
 ## Licence
 
 Tento web je licencován pod [MIT licencí](LICENSE). Můžete ho svobodně používat
+
+![App Screenshot](https://raw.githubusercontent.com/Filsonprg/Projekt/main/1.png)
+![App Screenshot](https://raw.githubusercontent.com/Filsonprg/Projekt/main/2.png)
