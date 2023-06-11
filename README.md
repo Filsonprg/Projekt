@@ -23,18 +23,6 @@ Sekce "Produkty" představuje různé druhy softwaru, které jsou dostupné na t
 
 Sekce "Popis Softwaru" poskytuje podrobnější informace o třech vybraných typech softwaru. Každý typ softwaru je popsán svým účelem a funkcemi, které nabízí. Kromě toho jsou uvedeny také klíčové parametry, které charakterizují daný typ softwaru.
 
-## Jak spustit web
-
-Pokud chcete spustit tento web na svém lokálním počítači, postupujte následujícím způsobem:
-
-1. Zkontrolujte, že máte nainstalovaný webový prohlížeč, například Google Chrome nebo Mozilla Firefox.
-2. Stáhněte si obsah tohoto repozitáře na svůj počítač.
-3. Otevřete soubor index.html ve svém webovém prohlížeči.
-
-## Příspěvky a přispívání
-
-Pokud máte nápady na vylepšení tohoto webu nebo chcete přidat nové produkty či informace, rádi přivítáme vaše příspěvky. Prosím, vytvořte větev (branch) s názvem popisujícím změny, které přinášíte, a pošlete nám svůj pull request.
-
 ## Licence
 
 Tento web je licencován pod [MIT licencí](LICENSE). Můžete ho svobodně používat
